@@ -1,2 +1,2 @@
 # C projects 
-C command line, embedded projects.
+C command line, embedded projects `AVR , ARM`, etc...
