@@ -8,7 +8,7 @@ Using ARM TivaC-tm4c123 microcontroller local Timer for delays,and GPIO pins to 
 
 ## Usage 
 - See the example in ```main.c```
-1. Include the ```hw_gpio.h```, ```delay.h``` and ```lcd.h``` header files.
+1. Include the ```tm4c123gh6pm.h```, ```delay.h``` and ```lcd.h``` header files.
 2. Initialize the LCD by calling ```void init_LCD(void)``` function.
 3. use the ```void LCD_WriteChar(char c)``` function to write character.
 4. if you want to write a string; store send a pointer to 1st char the call ```LCD_WriteString(char *s)``` function.

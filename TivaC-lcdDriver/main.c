@@ -5,8 +5,9 @@
  *      Author: AHMAD HEGAZY <https://ahegazy.github.io>
  */
 
-#include "hw_gpio.h"
 #include <stdint.h>
+
+#include "tm4c123gh6pm.h"
 #include "delay.h"
 #include "lcd.h"
 

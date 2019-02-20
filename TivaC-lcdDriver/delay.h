@@ -8,7 +8,7 @@
 #ifndef DELAY_H_
 #define DELAY_H_
 
-#include "hw_gpio.h"
+#include "tm4c123gh6pm.h"
 #include <stdint.h>
 
 typedef enum delayType {Micro = 0, Milli = 1} delayType;
