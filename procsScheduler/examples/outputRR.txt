@@ -1,0 +1,15 @@
+0  0 : Running  
+1  0 : Blocked  
+2  0 : Blocked  
+3  0 : Running 2 : Ready  
+4  2 : Running  
+5  1 : Running 2 : Blocked  
+6  1 : Blocked 2 : Running  
+7  1 : Running  
+
+
+Finishing Time: 7 
+CPU Utilization: 0.75 
+Turnaround time of Process 0 : 4  
+Turnaround time of Process 1 : 3  
+Turnaround time of Process 2 : 4  
